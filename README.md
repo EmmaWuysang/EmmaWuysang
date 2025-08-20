@@ -1,4 +1,4 @@
-#  Hey, I’m Emma W! <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://64.media.tumblr.com/e3a7e459f82b3bc167e95952ee58d468/tumblr_n5mp4zqdIu1reats2o1_500.gifv" width="200" />
+#  Hey, I’m Emma W! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzEzamc4dXp6ZjhqaXZ0ZGd1ZG5zeTMwY2o3dG1kemx4ZjEzd3dhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EYsehKrdX3XXi/giphy.gif" width="200" />
 
 🎮 I press buttons until games (sometimes) work D:  
 💻 Currently wrestling with **C++** (send help lol)  
