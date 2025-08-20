@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @EmmaWuysang
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++ Projects
-- 📫 How to reach me emkhutagoal@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm learning C++
+# 👋 Hey, I’m Emma W!
 
-<!---
-EmmaWuysang/EmmaWuysang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 I press buttons until games (sometimes) work D:  
+💻 Currently wrestling with **C++** (send help lol)  
+✨ Dreaming about code, but mostly debugging in reality  
+
+---
+
+### 🌟 A Little About Me
+- 👀 Into **games, tech, and random creative projects**  
+- 🌱 Always learning something new!  
+- 💞️ Would love to collab on anything fun & nerdy
+- 😄 Pronouns: **she/her**  
+- ⚡ Fun fact: I love little graphics! Creating graphics is the one thing other than coding that I can do for HOURS..
+
+---
+
+### 📫 Reach Me
+- 📧 **emkhutagoal@gmail.com**  
+
+---
