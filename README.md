@@ -2,7 +2,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzEzamc4dXp6ZjhqaXZ0ZGd1ZG5zeTMwY2o3dG1kemx4ZjEzd3dhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EYsehKrdX3XXi/giphy.gif" width="200" /> 𐙚 ‧₊˚ ⋅
 
 🎮 I press buttons until games (sometimes) work D:  
-💻 Currently wrestling with **C++** (send help lol)  
+💻 Currently wrestling with **AI Agents+** 
 ✨ Dreaming about code, but mostly debugging in reality  
 
 ---
