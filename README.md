@@ -3,7 +3,7 @@
 
 🎮 I press buttons until games (sometimes) work D:  
 💻 Currently wrestling with **AI Agents+** 
-✨ Dreaming about code, but mostly debugging in reality  
+✨ Dreaming about code, and debugging in reality  
 
 ---
 
@@ -17,6 +17,6 @@
 ---
 
 ### 📫 Reach Me ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
-- 📧 **emkhutagoal@gmail.com**  
-
+- 📧 **emwuys@gmail.com**  
+Here's my linkedin: **https://www.linkedin.com/in/emma-wuysang/**
 ---
